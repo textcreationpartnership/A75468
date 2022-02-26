@@ -1,0 +1,298 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An antidote against foure dangerous quæries, pretended to be propounded to the reverend Assemblie of Divines, touching suspension from the Sacrament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75468</idno>
+            <idno type="STC">Wing A3493</idno>
+            <idno type="STC">Thomason E265_3</idno>
+            <idno type="STC">ESTC R212428</idno>
+            <idno type="EEBO-CITATION">99871052</idno>
+            <idno type="PROQUEST">99871052</idno>
+            <idno type="VID">159371</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75468)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159371)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 44:E265[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An antidote against foure dangerous quæries, pretended to be propounded to the reverend Assemblie of Divines, touching suspension from the Sacrament.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed according to order, for Nathaniell Webb,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Prynne, William.  Foure serious questions of grand importance, concerning excommunication, and suspention from the Sacrament (Wing P3959).</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Annotation on Thomason copy: "Sept. 2d Mr Prin 1645".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prynne, William, 1600-1669. --  Foure serious questions of grand importance, concerning excommunication, and suspention from the Sacrament.</term>
+               <term>Lord's Supper --  Early works to 1800.</term>
+               <term>Excommunication --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:159371:1" rendition="simple:additions"/>
+            <head>An Antidote againſt foure dangerous <hi>Quaeries,</hi> pretended to be propounded to the Reverend Aſſemblie of Divines, touching ſuſpenſion from the Sacrament.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He exerciſe of Excommunication, and ſuſpenſion of perſons no<g ref="char:EOLhyphen"/>tably ſcandalous from the holy Sacrament of the Lords Supper, is a thing ſo expreſly warranted in the holy Scripture; yea, ſo commanded and commended to the true Church, that the eſta<g ref="char:EOLhyphen"/>bliſhing of it, by publike authority, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ath no difficulty in it, nor any matter of doubtfulneſſe at all. <hi>Cain</hi> the firſt unclean and un<g ref="char:EOLhyphen"/>holy Sacrificer, was rejected by God himſelf, who had no re<g ref="char:EOLhyphen"/>ſpect either to his perſon, or offering. And when he went on in his impenitency, and by his obſtinacy became notoriouſly ſcandalous, God caſt him out from his preſence, <hi>Gen.</hi> 4.16. that is, from all Communion with the godly in his Wor<g ref="char:EOLhyphen"/>ſhip, and in his Church the place of his ſpeciall preſence, which then was only in his Fathers Houſe and Family. Alſo, in the times of the Law,<note place="margin">
+                  <hi>Ge</hi> 17.14. <hi>Exod.</hi> 12.48.</note> and old Teſta<g ref="char:EOLhyphen"/>ment, all they who remained wilfully uncircumciſed, were cut off from <hi>Iſrael;</hi> by which was ſignified, that al perſons, who openly profeſſ uncircu<g ref="char:cmbAbbrStroke">̄</g>ciſion of heart by are the Word of God, to be cut off from the Church of Chriſt, &amp; Communion with the Saints. And in the dayes of our Saviour,<note place="margin">
+                  <hi>Ioh.</hi> 9.22.34 <hi>verſ. &amp;</hi> 12.42. <hi>&amp;</hi> 16.2. <hi>Act.</hi> 8.21.</note> Excommunication out of the Synagogue continued among the Jews; and our Saviour did not abrogate it, for the abuſe of it by the Prieſts, Scribes, and Phariſees: but, his Apoſtles under the Goſpel did exerciſe it againſt <hi>Simon Magus,</hi> when by profeſſed ſacriledge he declared himſelf to be in the gall of bitterneſſe, and in the bond of imquity. And <hi>Paul</hi> paſſed the ſentence of Excommunication againſt the inceſtuous perſon in the Church of <hi>Corinth,</hi> in the name and by the power of the Lord <hi>Jeſu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Chriſt,</hi> 1 <hi>Cor.</hi> 5.4 And he exerciſed it againſt <hi>Hymene<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> and <hi>Alexander,</hi> 1 <hi>Tim.</hi> 1.20. And he gives a Warrant to the Churches of <hi>Chriſt</hi> to exerciſe it againſt Schiſma<g ref="char:EOLhyphen"/>tiks, <hi>Gal.</hi> 5.12. and Hereticks, <hi>Tit.</hi> 3.10. and ſuch as do not love the Lord <hi>Jeſus Christ,</hi> 1 <hi>Cor.</hi> 16.22. but preach another Goſpel, <hi>Gal.</hi> 1.8, 9. As for the words o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our Saviour, <hi>Matt.</hi> 18.17. They are in the judgement of the generality of the Orthodox Miniſters of the reformed Churches, (whoſe judgement no modeſt Chriſtian will reject, without expreſſe Warrant from Gods Word, or convincing reaſon) a moſt clear commandement of <hi>Chriſt,</hi> for the exerciſe of Excommuni<g ref="char:EOLhyphen"/>cation in the Chriſtian Church. For they are plain, that he who ſinnes againſt his Brother, though privatly, (whether by wrong done to his perſon in back-biting and ſlandering him, or by committing ſome ſcandalous ſin, which might be to him a ſtumbling block, or in going about to corrupt and ſeduce the weak, it is not much to the purpoſe, the more private it is at the firſt, the more ſevere, in the inſtance of our Saviour, is the courſe of proceeding to Excommunication for it)
+<pb n="2" facs="tcp:159371:2" rendition="simple:additions"/>yet, if he ſcorn private admonition, and when it is brought to the Church, he re<g ref="char:EOLhyphen"/>fuſeth to hear the Church, then he offends publikely, and becomes openly ſcanda<g ref="char:EOLhyphen"/>lous by his obſtinacy and impenitency, and is to be eſteemed in the ſtate of an Heathen man, and a publican in the judgement of every particular Chriſtian; he is as one now out of the Church, which muſt be by Excommunication, by which men are ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed and caſt out of the Church. For any man to account any Brother as an Heathen, when the Church doth not caſt him out, is a great ſin: If one particular man hath Warrant, and is bound by <hi>Chriſts</hi> Commandement to eſteem another man as an Heathen; all other Chriſtian, even the whole Church, which knoweth his contumacy, are bound ſo to eſteem him alſo. That theſe Scriptures do fully prove Excommunication of contumacious ſinners out of the Church, I ho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e every ſober Chriſtian will eaſily graunt, when he hath well weighed them; though <hi>Aridus Aretius</hi> ſhould hold the contrary.</p>
+            <p>And whereas our Saviour bids us forgive a Brother, though he fins againſt us ſeventy times ſeven times if he profeſſeth that it repents him, <hi>Luke</hi> 17. this doth no whit croſſe his Commandement of excommunicating, ſuch as are impenitent and obſtinately refuſe to hear the Church. Let this ſuffice for Excommunication, that it is an Ord<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nance of God, commended by <hi>Chriſt,</hi> to be exerciſed in all Chri<g ref="char:EOLhyphen"/>ſtian Churches.</p>
+            <p>In the next place, That ſuſpenſion of ſcandalous ſinners, after admonition and conviction, from the holy Communion, is neceſſary to every Church; I do de<g ref="char:EOLhyphen"/>monſtrate clearly from the Scriptures, before named, and <hi>Num.</hi> 12.14. and <hi>Dent.</hi> 23.1.23 For, thoſe do prove Excommunication to be an Ordinance of God in the Church; (as is confeſſed by the Adverſaries of ſuſpenſion) which Excom<g ref="char:EOLhyphen"/>munication is an excluſion of corrupt and infectious Members out of the Church, by which they are deprived from Communion in the Sacraments, and all publike Ordinances; (as the Adverſarie doth here go about to prove by the Teſtimonies of <hi>Tertullian,</hi> the Canoniſtes <hi>Sch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le-men,</hi> and <hi>Aretius</hi>) whence I thus argue.</p>
+            <p>The Scriptures which prove Excommunication, and an excluſion of ſcandalous impenitent, and contumacious ſinners, from Communion with the Church in the Sacraments, and all publike Ordinances and divine Offices, they do neceſſarily prove all the ſteps and degrees, which are required in an orderly and Chriſtian proceeding to Excommunication, and caſting ſuch ſinners out of the Church.</p>
+            <p>But, the Scriptures before named (as the Adverſaries confeſſe) prove Excom<g ref="char:EOLhyphen"/>munication to be the Ordinance of God, and of <hi>Chriſt</hi> in his Church. Therefore, they prove the neceſſary ſteps and degrees, which are required in orderly proceed<g ref="char:EOLhyphen"/>ing to it, as reproof, ſharp rebuke, the firſt and ſecond admonition, ſuſpending for a time from the holy Communion, or Lords Supper.</p>
+            <p>I hope no ſober Adverſary will hold it fit to excommunicate any ſinners (ex<g ref="char:EOLhyphen"/>cept in capitall crimes of Idolatry, cruell murders, blaſphemy, and the like) be<g ref="char:EOLhyphen"/>fore reproof admonition, and ſuſpenſion from the Sacrament; which laſt, eſpe<g ref="char:EOLhyphen"/>cially done with diſcretion, gravity, and much Chriſtian compaſſion, may bring ſcandalous offenders to be aſhamed and to repent, and ſo prevent Excommuni<g ref="char:EOLhyphen"/>cation, and cutting off from the Church. It is a very weak, it not perverſe kinde <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>arguing, to ſay, That ſuch and ſuch Scriptures do prove Excommunication,
+<pb n="3" facs="tcp:159371:2"/>and therefore, are erroncouſly produced to prove ſuſpenſion, for this latter is ne<g ref="char:EOLhyphen"/>ceſſarily implyed and included in proceeding to the former, and is as neceſſary a ſtep and degree to it, as reproof and admonition: Unleſſe, men will dream of Popiſh, and late Prelaticall Excommunications, which were <hi>Br<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ta fulmin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> ſent out againſt men without any orderly proceeding, before they were convi<g ref="char:EOLhyphen"/>cted, or did plead for themſelves.</p>
+            <p>Presbyteries eſtabliſhed according to Gods Word, and godly Paſtors, Mini<g ref="char:EOLhyphen"/>ſters, and Elders; if the Church be well reformed, will be far from proceed<g ref="char:EOLhyphen"/>ing, as in the Papacy and Prelacy, with indiſcret, over ſevere, ambitious, paſſio<g ref="char:EOLhyphen"/>nate, and revengefull hands: He who nouriſheth ſuch moſt unchriſtian and un<g ref="char:EOLhyphen"/>charitable thoughts and ſuſpicions in his heart, of Eccleſiaſticall Rulers and Judi<g ref="char:EOLhyphen"/>catures, this yeer; will perhaps argue before the yeer be out.</p>
+            <p>Upon the ſame ground, againſt the high prerogatives and priviledges of Par<g ref="char:EOLhyphen"/>liament, and the power of Civill Magiſtrates, Judges, and Courts of Juſtice, That it is a matter of great danger to give them legiſlative power, leſt they make Laws as in the times of Popery, for the advancing of Tyranny, Idolatry, ſuperſti<g ref="char:EOLhyphen"/>tion, and puniſhing and perſecuting of men, for true piety, Religion, and godli<g ref="char:EOLhyphen"/>neſſe; and compelling them to ſubmit to Popiſh traditions, Liturgies, and ſu<g ref="char:EOLhyphen"/>perſtitious ceremonies: And to leave the expoſitions of Laws in the breaſts of Judges, leſt they pervert Juſtice and judgement, and to wreſt the Law to juſtifie Tyranny and oppreſſion and to overthrow the Liberty of the Subjects, as we felt by wofull experience in the latter times, of domineering Prelats who made their will and luſt Law. For my part, I dare not be ſo ſuſpicious, nor intertain any ſuch thoughts into my heart; but am confident, that a ſtrict Diſcipline accord<g ref="char:EOLhyphen"/>ing to the Rules of <hi>Chriſt,</hi> and the practice of the pure primitive Apoſtolicall Church, once ſet up and backt, confirmed, and eſtabliſhed by civill authority; there will be no place for Judges and Rulers civill, nor domineering, and ambi<g ref="char:EOLhyphen"/>tious, revengefull Governours Eccleſiaſticall to tyrannize over the conſciences of Chriſtians: If any ſcandalous perſons creep into Paſtorall charges, there will be a plain and eaſy way to caſt them out: If a Congregationall Conſiſtory offend groſly through indiſcretion, ſuperior Presbyteries will correct them, and there will be appeales to Provinciall Synods from erring &amp; unjuſt ſentences of Presby<g ref="char:EOLhyphen"/>teries. The Goſpell powerfully preached by godly and faithfull Miniſters, ſet up in all places of the Land, encouraged with double honour of liberall maintenance and due reverence, will work a great Reformation, and increaſe of knowledge grace, and godlineſſe, in the Peers and Commons of the Realme, and in Judges Magiſtrates, and Lawyers: Judges will be taught, that they judge not for man, but for the Lord, who is with them in the Judgement. People will grow more peaceable and free from continuall contentions: Lawyers ſhall not get the wealth, of be Land into their hands by fiſhing in troubled waters, encouraging men in unlawfull and quarrellous ſu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es, pleading wicked cauſes for large fees; prolon<g ref="char:EOLhyphen"/>ging ſuites, and making men ſpend, in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ong <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uite, unto twice the value of their juſt right &amp; debt for which they ſue, &amp; by taking treble fees, &amp; keeping them, though they faile their client, and be imployed at other <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, when his cauſe is to be pleaded. Godlineſſe and true Religion being increaſed by faithfull preaching,
+<pb n="4" facs="tcp:159371:3"/>and godly Diſcipline<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> In the hearts of men, will make the Common-Wealth free from the neceſſity of many Lawyers, which the learned Philoſopher held to be a pla<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ue in a State and Kingdom, and an evidence of the miſerable condition thereof. And therefore it is no marvell, that the corrupt ones, of that proſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſion, are deadly Enemies to the maintenance, honour, and other incouragements of the Miniſters of the Goſpell.</p>
+            <p>But, not to trouble my adverſary any longer with this unpleaſing Diſcourſe, which his importune and unſeemly ſpeeches have occaſioned, I proceed in the proof of the main point in hand, and argue from the holy Scriptures; That ſcandalous impenitent perſons are not in any wiſe to be admitted to the holy Communion, at the Lords Table, untill they confeſſe their offences and profeſſe godly ſorrow and repentance, and promiſe amendment to the utmoſt of their power, and endeavour.</p>
+            <p>And my ſecond Argument is this.</p>
+            <p>That perſon from whom every faithfull Member of the Church, and every Profeſſor,<note place="margin">
+                  <hi>2.</hi> Arg.</note> whether Paſtor, Elder, or private perſon, is commanded to with<g ref="char:EOLhyphen"/>draw himſelf, and to have no fellowſhip with him, may not nor can without ſin, and offence of God, be admitted by the Miniſters, Elders, and whole Con<g ref="char:EOLhyphen"/>gregation, to the Sacrament of the Lords Supper. To deny, this is to rebell againſt the light of Common reaſon.</p>
+            <p>Every ſinner openly ſcandalous, either in corrupt life, or in falle opinions and doctrine, walking diſorderly and cauſing diviſions; which are not according to godlineſſe, which he in pride maintains, and delights in perverſe diſputations for them and the like; is ſuch a perſon as appears, 2 <hi>Theſſ</hi> 3.6.14. 1 <hi>Tim.</hi> 6.5. <hi>Rom.</hi> 16.17, 18. 1 <hi>Cor.</hi> 5.11. 2 <hi>Joh.</hi> 10.11. Where the Apoſtle injoynes Chri<g ref="char:EOLhyphen"/>ſtians yea commands them in the Name of the Lord <hi>Ieſus Christ,</hi> to mark ſuch as cauſe diviſions, ſcandols, offences, and to withdraw themſelves from every Brother that is a drunkard, or unclean perſon, or extortioner, or walketh diſor<g ref="char:EOLhyphen"/>derly, or obeys not the Word nor conſenteth to wholſome words and ſound do<g ref="char:EOLhyphen"/>ctrine; but is proud, do<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing about queſtions and ſtrife of words, which cauſe envy ſtrife, railings, and evil ſurmiſes, and perverſe diſputations of men of cor<g ref="char:EOLhyphen"/>rupt minds, and deſtitute of the Truth. And with ſuch (though yet not Excom<g ref="char:EOLhyphen"/>municated and caſt out, but called a Brother) not to company, nor to eat, nor to bid him, God ſpeed leſt they be partakers of his evill deeds.</p>
+            <p>The concluſion therefore neceſſarily follows, that ſuch openly noted and con<g ref="char:EOLhyphen"/>victed ſcandalous ſinners, are not to be admitted to eat with godly Chri<g ref="char:EOLhyphen"/>ſtians; nor to have Communion with them, nor company with them at the Lords Table.</p>
+            <p>My third Argument is grounded on our Saviours Commandment, <hi>Mat.</hi> 7.6. <hi>Give not that which is holy to the dogs.</hi>
+               <note place="margin">
+                  <hi>3.</hi> Arg.</note> By holy thing is certainly meant that which is conſecrated, and ſet apart for the holy uſe of them that are Saints. By dogs are meant unclean, impure, and noted ſcandalous ſinners, whom Gods Mi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſters cannot offer and commend to God, as holy Members of <hi>Chriſt,</hi> neither can they offer themſelves, ſouls and bodies, to the Sacrament and to the Lords <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, but as unclean; even as dogs, being unclean beaſts, were abomination in
+<pb n="5" facs="tcp:159371:3"/>the offerings of the Law. By giving to dogs is meant, not a bare propounding, or ſhewing, or offering that which is holy, to al in general, who can and wil rightly receive it as we do in preaching the Word to every creature &amp; to all even heathen Nations, to ſee and trye if God will convert them: But, a giving to them holy things, as having already a true right in them, as Children have in the bread, which their Father hath provided for them; as for example, applying to them the pro<g ref="char:EOLhyphen"/>miſes of eternall life, and the righteouſnes and ſatisfaction of Chriſt which be<g ref="char:EOLhyphen"/>long only to men, who doe repent and profeſſe true faith in Chriſt, as preachers do to them that are called to belively members of the true Church, and hunger and thirſt after more co<g ref="char:cmbAbbrStroke">̄</g>munion with Chriſt; And giving of the ſacraments which are feales of regeneration, remiſſion of ſinns, and communion with Chriſt, to infidells and to ſcandalous and impenitent ſinners; This giveing of holy things to uncleane and vnworthy perſons, is that which our Saviour here forbidds, and therfore to ſuch perſons as are like dogs in uncleannes by reaſon of ſcandalous ſinns and impe<g ref="char:EOLhyphen"/>nite cie, the holy Sacraments are not to be given; Though miniſters may preach and propound the Goſpell and the promiſes therof to all ingenerall for their con<g ref="char:EOLhyphen"/>verſion, yet they may not apply promiſes of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he remiſſion of ſin, of Chriſts ſatis<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<g ref="char:EOLhyphen"/>ction and of eternall life to any in perticular, but only to ſuch as profeſſe faith, re<g ref="char:EOLhyphen"/>pentance and holynes of life Yea if any be found like ſwine, who when the pearle of the Goſpell is caſt before them, doe ſcorn, contemne, tread it under foote, and perſecute and teare the preachers; they muſt turne a way from them, ſhake of the duſt from their feet and not caſt holy pearles before them any more as our Saviour taught his Apoſtles <hi>Math.</hi> 10.14. And they put in practiſe <hi>Acts.</hi> 13, 51.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>1</label> Whereas it is obiected, firſt that no circumeiſed perſon was debarred from the Paſſover that was deſirous to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at it. <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> To this I anſwere, that legall uncleanneſſe did debar men &amp; women from eating of the paſſover &amp; every other holy ſacrifice, as doth manifeſtly appear <hi>Levit</hi> 7 20. and 22.3. and <hi>Num</hi> 9.10.11. And therfore much more doth the uncleannes of ſcandalous ſin which is worſ, debar men from the holy communion of the Lords ſupper which farr exceeds legall holy ſacrifices.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>2</label> Secondly it is objected, that our Saviour admitted <hi>Iudas,</hi> whome he knew to be a devill and a traytor, to the holy ſacrament and therfore ſuch may not be ſu<g ref="char:EOLhyphen"/>ſpended.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> I anſwere that <hi>Iudas</hi> made profeſſion of faith and holynes and was out wardly ſo unblameable, that none of the Apoſtles did deſcern him to be the traytor which our Saviour ſal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhould betray him, but they ſuſpected rather every on himſelfe but we ſpeak not in this queſtion what men are indeed in ſecret, devils, hypocrites and the like: but of them that are openly ſcandalous and give offence &amp; are infectious.</p>
+            <p>Secondly it is manifeſt, <hi>John.</hi> 13, 30. That <hi>Judas</hi> immediatly went out when he had received the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>op, which was given him before the ſupper was fully ended. But our Saviour ordained the Sacrament after ſupper, <hi>Luk</hi> 22 20 and 1 <hi>Cor.</hi> 11.25. Yea it is manifeſt that he made that long <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ermon which is ſet down, <hi>Iob.</hi> 13.31. to the end of the 17. Chapter, after <hi>Iudas</hi> was gone out; and that prayer and thankſ<g ref="char:EOLhyphen"/>giveing with which he concluded and wherein <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e prayes for that union and come munion of the faithfull with him, Chap. 7. whereof this Sacrament is a ſeale; ſeemes to me to be the bleſſing of the bread and wine. So this obiection is a mere
+<pb n="6" facs="tcp:159371:4"/>miſtake and vaine imagination.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>3</label> The third objection is; A miniſter is diſcharged if he give warning of the dan<g ref="char:EOLhyphen"/>ger to them that come unworthily as <hi>Paul</hi> did 1 <hi>Cor.</hi> 11. For giving of warning frees him. <hi>Ezech.</hi> 33.4. <hi>Acts.</hi> 2.26.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> I anſwer that admonition is a part but not all the duty of the miniſter, <hi>Paul</hi> be<g ref="char:EOLhyphen"/>ing abſent could write of the danger, but not put any back unleſſe he had been preſent, it was enough to make the paſtors in <hi>Corinth</hi> to ſuſpend ſcandalous ſinners in that he told them that the unworthy receiver did eat judgment to himſelfe and profained the Lords body, and that every man muſt firſt ſift and examine himſelfe and then, come and eat, which ſcandalous impenitent ſinners, do not, and therefore are not to be admitted.</p>
+            <p>In this caſe it is not enough for Miniſters, to warne men of ſin &amp; danger, unleſſ they haveing power to keepe them back, doe uſe it, and hinder them at leaſt from open acting of ſin. It is not enough for a man to tell one that is deſperate that if he runs upon the drawne ſword which he holds before him in his hand it will kil him, but he muſt pull back his ſword, and not thruſt it into his bowels, when he ſees him running upon the point of it, and muſt put him by with all his might, or elſe he is guilty of murther. And ſo it is in this caſe, the Miniſter that gives to a ſcandalous impenitent ſinner that which he knowes to be deadly poyſon to his ſoule, is guilty, and pertaker of his ſin.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>4</label> The Goſpell is a Holy thing, and is to many the Savour of Death and yet muſt be Preached unto all men even to them whom it hardens to diſtru<g ref="char:EOLhyphen"/>ction.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> It is true that out of Charity Miniſters propound the Goſpell to all in hope to proſit them, and to convert them; but if it appeares to them, that any are paſt hope and the word is deadly to them; they ought not any longer to preach to them, as I have before proved by our Saviours owne words. In breife this Ob<g ref="char:EOLhyphen"/>jection is an Arrow ſhott againſt Chriſt himſelfe, For he ſaith give not holy things to doggs. But this Objector affirmes, that preaching of the Goſpell is the holy thing of which Chriſt there ſpeakes; And that we muſt preach it to wicked men, who are doggs ſo called for their uncleaneſſe; And therefore we muſt not in this command obey Chriſt, that is the iſſue of this Objection; but I have cut this knot aſunder before, and ſo leave the ſhame to the Objector.</p>
+            <p>I adde onely one word more, that by extraordinary Revelation and ſpeciall warrant from God, <hi>Moſes</hi> and <hi>Aaron</hi> did ſpeake Gods word to <hi>Phar<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>h,</hi> and <hi>Iſaiah</hi> to the <hi>Iewes,</hi> which the knew would harden them. <hi>Ex.</hi> 7.3. <hi>Iſa.</hi> 6.10. This is no warrant for us, unleſſe we have like Revelation.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>5</label> God onely knowes the ſecrets of mens hearts, and Miniſters cannot judge cer<g ref="char:EOLhyphen"/>tainely, who are worthy receivers; Therefore they muſt not uſurpe power to de<g ref="char:EOLhyphen"/>termine mens unworthineſſe to receave the Sacrament, God may change mens hearts in a moment before Miniſters can take notice.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> It is true that Hypocrites may deceave Miniſters by ſeeming holineſſe and may be admitted not by the fault of the Miniſters, who are not bound to ſearch into Gods ſecrets, nor to judge of the hidden diſpoſition and ſtate of mens ſoules; But an open ſcandalous ſinner, is knowne to all who beleeve Gods word, to be un<g ref="char:EOLhyphen"/>worthy
+<pb n="7" facs="tcp:159371:4"/>worthy, and judged unworthy of the holy Communion, and kept from it, while he is openly incorrigible. In this caſe we are not to diſpute of Gods power, but what is Gods will, and that is not to give holy thing, to ſuch as are manifeſtly uncleane like doggs as all ſcandalous impenitent ſinners are for the preſent; It is hard to be beleeved that God will bleſſe a graceleſſe and preſumptuous act of ſinne, with an holy change of heart in a moment. If men do murther their ſoules and drinke their owne damnation, they ſhall beare their owne burden, But if Miniſt<g ref="char:EOLhyphen"/>ers put this damning cup into their hand, and bid them drinke of it, their bloud ſhall be required of them, becauſe they imbolden them and act with them in this profanation.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>6</label> But what, if ſinners, being invited and injoyned to receive the Sacrament under paine of contempt, do offer themſelves, ſhall they not be admitted in caſe they profeſſe ſincere repentance, and promiſe newneſſe of life for the time to come?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> No Miniſter of <hi>Chriſt</hi> will in this caſe judge or deem ſinners unworthy; This is, that which they require. Let ſinners thus humble themſelves, and the Con<g ref="char:EOLhyphen"/>troverſie is ended.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>7</label> That Objection, of not breaking the bruiſed reed, nor quenching the ſmoak<g ref="char:EOLhyphen"/>ing flaxe is a palpable miſtaking and wreſting of Gods Word. For, the meaning of the words is: That poor dejected ſouls, whoſe hearts are bruiſed for their ſins, and they have but a weak faith, like a little ſpark which makes only a ſmoak in flaxe; are not to be broken with threatnings and terror, but, to be comforted, confirmed, and ſtrengthened by the gracious promiſes of mercy in <hi>Chriſt,</hi> and preaching the doctrine of Gods free grace, and <hi>Chriſts</hi> meritorious ſatisfaction and mediation.</p>
+            <p>This i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as contrary to the encouraging of ſcandalous impenitent ſinners in their evil wayes, by admitting them for good and true Chriſtians to Communion with the Saints, (which is the Controverſie in hand) as darkneſſe is to light. The one is that which all Gods faithfull Miniſters take delight in, and do in the holy pra<g ref="char:EOLhyphen"/>ctice thereof follow <hi>Chriſt.</hi> The other, is hatefull to God, if it be done wittingly and willingly, and all Gods Miniſters abhor it as a thing moſt deteſtable. Now, therefore, let the Objecter ſee, how he hath wreſted Gods Word, commanding an holy duty; to juſtifie profaine iniquity, and ſo hath confounded and mingled Heaven and Hell together-</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>8</label> As the danger and hurt, which comes to many by hearing the Word unprofi<g ref="char:EOLhyphen"/>tably, doth not reſtraine Miniſters from preaching to all men; ſo the hurt which comes to unworthy receivers, even eating damnation to themſelves, ought not to deterre and reſtrain them from giving the Sacrament to all.</p>
+            <p>This Objection is moſt profane, for it tends to prove that the Heathen, Infi<g ref="char:EOLhyphen"/>dels, and Excommunicated perſons, may be admitted to the Lords Supper<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for the Word is preached to them all. But, my anſwer to it is this: That in preach<g ref="char:EOLhyphen"/>ing the Word to them who are hardened by it, the Miniſters of <hi>Christ</hi> ſeek and hope to do good, and by accident it turns to hurt: But, in giving the Sacrament to ſcandalous and impenitent ſinners, they know they give that which will cer<g ref="char:EOLhyphen"/>tainly bring judgement, becauſe in that caſe they cannot cat but unworthily; So <gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="8" facs="tcp:159371:5"/>the compariſon holds not. Alſo in giving the holy Sacrament to ſuch, they do wittingly profane holy things, and do lye deſperatly, in ſaying, <hi>This is the Body and Blo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d of Chriſt broken and ſhed for thee;</hi> when they know him to be in ſuch a caſe, that i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he continue in it to death, he ſhall be certainly damned, and is one who never had intereſt in <hi>Christ.</hi>
+            </p>
+            <p>The Concluſion of the Adverſary, is moſt abſurd and irrationall, and contrary to manifeſt truth, For what ſeeking of unlimited Eccleſiaſtical power is this when Chriſts Miniſters deſire, that ſcandalous unworthy receavers may not profainly in<g ref="char:EOLhyphen"/>trude and come boldly to the Lords holy Table; And that they may not be com<g ref="char:EOLhyphen"/>pelled to do that which famous <hi>Calvin</hi> profeſſed he would not doe though he were preſſed to it with threatning of death, and did ferſake his charge and flocke, and did ſuffer baniſhment, (untill Gods vengeance o<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cke his perſecutors) for refuſing to yeeld in that caſe againſt his conſcience.</p>
+            <p>The power of judging who are ſcandalous is not <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>bitrary, nor in the luſt of Miniſters and Elders, but is limited to the rule of Gods <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>preſſe word. It is not a power to put back all whom they pleaſe, but ſuch as the whole Conſiſtory do ſee to be ſcandalous and unworthy. Their power is not ind<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ndent but may be con<g ref="char:EOLhyphen"/>trolled by a ſuperiour Presbytery. This power alſo is a ſp<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>all part of the exerciſe of the keyes which Chriſt gave to the Apoſtles, Paſtors, and Teachers, and which they exerciſed in the primitive times and Churches, as is before proved &amp; by this means kept Gods holy ordinances from profanation, &amp; made ſcandalous ſinner <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſhamed of their evill wayes, and others affraid to walke in <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>.</p>
+            <p>Wherefore I will conclude my anſwer to theſe foure <hi>Qu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ies</hi> with this <hi>Anti<g ref="char:EOLhyphen"/>quaeree,</hi> Whether it be not Antichriſtian pride, and exorbitant, tranſcendent un<g ref="char:EOLhyphen"/>limited power uſurped, and dangerous oppoſition and contradiction of Gods ho<g ref="char:EOLhyphen"/>ly word &amp; truth. That this inquiſitor ſhould control Chriſts holy Co<g ref="char:cmbAbbrStroke">̄</g>mandements call it tyranny and oppreſſion of mens conſciences to reſtraine them from pro<g ref="char:EOLhyphen"/>faining of Chriſt holy Ordinance, from eating their owne damnation, murthering wilfully their owne ſoules, troubling the conſciences of Chriſtian communicants driving them from the Lords Table, and cauſing them to ſeparate from our con<g ref="char:EOLhyphen"/>gregations; And that he ſhould charge a whole Aſſembly of godly grave and learned Paſtours and Miniſters of Chriſt true Church, with the ambitious ſeeking of ſuch unlimited Eccleſiaſticall power as Lordly Prelate never durſt to clame. When they moſt humbly deſire by way of Petition, that they may not againſt their own conſciences guided by the word of God, caſt holy things to dogs, nor be ty<g ref="char:EOLhyphen"/>rannized over by open ſcandalous impenitent ſinners permitted to intrude them<g ref="char:EOLhyphen"/>ſelves boldly to the Lords table, and to take out of their hands the bread of Gods Children which is proper to ſuch Chriſtians as come Profeſſing true repentance and faith in Chriſt.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, Printed according to Order, For <hi>Nathaniell Webb.</hi> 1645.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
